@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "quote": "Slowly I'm renewing my soul",
     "speaker": "Virginia Woolf"
@@ -331,6 +331,10 @@
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
     "speaker":"Haruki Murakami"
+  },
+  {
+    "quote": "Hard work beats talent when talent doesn't work hard.",
+    "speaker":"Tim Notke"
   }
-
+	
 ]
